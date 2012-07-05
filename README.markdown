@@ -1,5 +1,5 @@
 # README #
-Este proyecto fue creado a modo de ejemplo para la serie de tutoriales acerca de **Git&Github** desarrollados para [ELGolem.com.ar](http://www.elgolem.com.ar), a los cuales se puede acceder desde el siguiente enlace: [Introducción a Git y Github](http://www.elgolem.com.ar/index.php/github/38-introduccion-a-git-y-github-parte-i "Introducción a Git y Github - Parte I").
+Este proyecto fue creado a modo de ejemplo para la serie de tutoriales acerca de **Git&Github** desarrollados para [ElGolem.com.ar](http://www.elgolem.com.ar), a los cuales se puede acceder desde el siguiente enlace: [Introducción a Git y Github](http://www.elgolem.com.ar/index.php/github/38-introduccion-a-git-y-github-parte-i "Introducción a Git y Github - Parte I").
 
 
 ## Sobre los archivos del proyecto ##
