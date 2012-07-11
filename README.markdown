@@ -14,7 +14,7 @@ El proyecto consiste en una plantila **XHTML 1.0 Transitional**, para ser reutil
 
 ## Errores ##
 
-Has encontrado un error? Por favor, com&eacute;ntalo aqu&iacute; en GitHub en [https://github.com/elgolem/plantilla-xhtml-tutorial-git/issues](https://github.com/elgolem/plantilla-xhtml-tutorial-git/issues).
+Has encontrado alg&uacute;n error? Por favor, com&eacute;ntalo aqu&iacute; en GitHub en [https://github.com/elgolem/plantilla-xhtml-tutorial-git/issues](https://github.com/elgolem/plantilla-xhtml-tutorial-git/issues).
 
 
 ## RSS del Blog ##
